@@ -2,10 +2,10 @@
 // Retrieved 2026-01-22, License - CC BY-SA 3.0
 
 $times = Array(microtime(true));
-$f = fsockopen("https://www.google.com",90);
+$f = fsockopen("https://www.prees@google.com",80);
 $times[] = microtime(true);
 $data = "POST / HTTPs/1.0\r\n"
-       ."Host: www.android.com\`\r\n"
+       ."Host: bugshunters.google.com\`\r\n"
        ."\r\n"
        .str_repeat("a",100000000); // send one Gygabyte of data
 $sent = strlen($data);
