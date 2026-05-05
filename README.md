@@ -3,29 +3,29 @@
 <img width="1109" height="485" alt="notoficate vlc video LAN" src="https://github.com/user-attachments/assets/cf7a0746-6101-4f4c-9e48-269d31824816" />
 
 
-Berikut ini adalah daftar jaringan dan stasiun televisi di Indonesia. Sejak berdirinya TVRI pada 1962, hingga 27 tahun setelah berdirinya TVRI, penduduk Indonesia hanya bisa menyaksikan satu saluran televisi saja. Namun pada tahun 1989, Pemerintah akhirnya mengizinkan RCTI sebagai stasiun televisi swasta pertama di Indonesia, meski hanya penduduk yang mempunyai dekoder yang dapat menyaksikan RCTI, walaupun pada akhirnya dibuka untuk masyarakat mulai tanggal 24 Agustus 1990. Televisi swasta (selain TPI/MNCTV) mulai mengudara secara nasional pada 24 Agustus 1993.
+# Berikut ini adalah daftar jaringan dan stasiun televisi di Indonesia. Sejak berdirinya TVRI pada 1962, hingga 27 tahun setelah berdirinya TVRI, penduduk Indonesia hanya bisa menyaksikan satu saluran televisi saja. Namun pada tahun 1989, Pemerintah akhirnya mengizinkan RCTI sebagai stasiun televisi swasta pertama di Indonesia, meski hanya penduduk yang mempunyai dekoder yang dapat menyaksikan RCTI, walaupun pada akhirnya dibuka untuk masyarakat mulai tanggal 24 Agustus 1990. Televisi swasta (selain TPI/MNCTV) mulai mengudara secara nasional pada 24 Agustus 1993.
 
-Saluran nasional
-Berikut adalah jaringan dan stasiun televisi siaran gratis di Indonesia.
+# Saluran nasional
+# Berikut adalah jaringan dan stasiun televisi siaran gratis di Indonesia.
 
-Terestrial
-Berikut adalah jaringan dan stasiun televisi siaran gratis yang salurannya dapat ditangkap melalui antena UHF/VHF (terestrial). Sejak berlakunya Undang-Undang Nomor 32 Tahun 2002 tentang Penyiaran, izin penyelenggaraan siaran televisi swasta terestrial yang dikeluarkan hanyalah untuk stasiun televisi lokal. Stasiun televisi yang ingin melakukan siaran nasional harus melakukan siaran berjaringan antarstasiun televisi lokal.
+# Terestrial
+# Berikut adalah jaringan dan stasiun televisi siaran gratis yang salurannya dapat ditangkap melalui antena UHF/VHF (terestrial). Sejak berlakunya Undang-Undang Nomor 32 Tahun 2002 tentang Penyiaran, izin penyelenggaraan siaran televisi swasta terestrial yang dikeluarkan hanyalah untuk stasiun televisi lokal. Stasiun televisi yang ingin melakukan siaran nasional harus melakukan siaran berjaringan antarstasiun televisi lokal.
 
-Sebagian besar di antaranya melakukan siaran di terestrial analog dan digital sekaligus, sebagai bagian dari transisi sistem siaran dari analog ke digital. Seluruh siaran terestrial analog di Indonesia dihentikan secara bertahap mulai 30 April 2022 dan dimatikan sepenuhnya pada tanggal 12 Agustus 2023.[1]
+# Sebagian besar di antaranya melakukan siaran di terestrial analog dan digital sekaligus, sebagai bagian dari transisi sistem siaran dari analog ke digital. Seluruh siaran terestrial analog di Indonesia dihentikan secara bertahap mulai 30 April 2022 dan dimatikan sepenuhnya pada tanggal 12 Agustus 2023.[1]
 
-Jaringan
-Berikut ini daftar jaringan televisi di Indonesia menurut tanggal awal siaran dan pemilik; baik komersial maupun nonkomersial, juga baik yang jangkauan siarannya mencakup seluruh provinsi di Indonesia atau hanya di beberapa wilayah saja. Sebagian dari jaringan televisi tersebut sebelumnya diterima di siaran terestrial analog.
+# Jaringan
+# Berikut ini daftar jaringan televisi di Indonesia menurut tanggal awal siaran dan pemilik; baik komersial maupun nonkomersial, juga baik yang jangkauan siarannya mencakup seluruh provinsi di Indonesia atau hanya di beberapa wilayah saja. Sebagian dari jaringan televisi tersebut sebelumnya diterima di siaran terestrial analog.
 
-Nama	Pemilik	Diluncurkan	Aliran	Jumlah pemancar
-TVRI	LPP Televisi Republik Indonesia	24 Agustus 1962	Umum	361[2] (35 stasiun daerah)[nb 1]
-TVRI World	21 Desember 2010	Internasional
-TVRI Sport	Olahraga
-RCTI	Media Nusantara Citra[nb 2]	24 Agustus 1989	Umum	59
-MNCTV	23 Januari 1991[nb 3]
-GTV	08 Oktober 2002	57
-iNews	06 April 2015	Berita dan Olahraga[nb 4]	65
-SCTV	Surya Citra Media	24 Agustus 1990	Umum	64
-Indosiar	11 Januari 1995
+# Nama	Pemilik	Diluncurkan	Aliran	Jumlah pemancar
+# TVRI	LPP Televisi Republik Indonesia	24 Agustus 1962	Umum	361[2] (35 stasiun daerah)[nb 1]
+# TVRI World	21 Desember 2010	Internasional
+# TVRI Sport	Olahraga
+# RCTI	Media Nusantara Citra[nb 2]	24 Agustus 1989	Umum	59
+# MNCTV	23 Januari 1991[nb 3]
+# GTV	08 Oktober 2002	57
+# iNews	06 April 2015	Berita dan Olahraga[nb 4]	65
+# SCTV	Surya Citra Media	24 Agustus 1990	Umum	64
+# Indosiar	11 Januari 1995
 Moji	Elang Mahkota Teknologi	16 Juli 2005[nb 5]	61
 Mentari TV	Surya Citra Media	02 November 2022	Anak-anak[nb 6]
 antv	Visi Media Asia[nb 7]	01 Maret 1993	Umum	56
@@ -47,11 +47,11 @@ MDTV	MDTV Media Technologies	28 Februari 2025	66[nb 17]
 Sin Po TV	Sin Po Media	16 Juni 2025	Berita dan Olahraga	34
 Catatan:
 
-Bidang berwarna biru ( ) merupakan saluran televisi publik (Lihat: Lembaga Penyiaran Publik).
-Kecuali dikutip, beberapa data jumlah stasiun anggota/pemancar bersumber dari artikel masing-masing jaringan di Wikipedia tanpa referensi.
+# Bidang berwarna biru ( ) merupakan saluran televisi publik (Lihat: Lembaga Penyiaran Publik).
+# Kecuali dikutip, beberapa data jumlah stasiun anggota/pemancar bersumber dari artikel masing-masing jaringan di Wikipedia tanpa referensi.
 *) 24 di antaranya ditimpa saluran lain.[nb 18][nb 16][nb 14][nb 19][nb 12]
 **) 18 di antaranya ditimpa saluran lain.[nb 18][nb 16][nb 20][nb 17]
-Kelompok stasiun televisi
+# Kelompok stasiun televisi
 Berikut ini kelompok media (seluruhnya swasta) yang beranggotakan stasiun-stasiun televisi lokal, namun tidak menyiarkan acara bersama dalam waktu yang sama/secara simultan seperti halnya jaringan televisi.
 
 Logo	Nama	Pemilik	Diluncurkan	Aliran	Jumlah pemancar
@@ -103,38 +103,38 @@ DI Yogyakarta
 Gorontalo
 Ibu Kota Nusantara
 Jakarta
-Jambi
-Jawa Barat
-Jawa Tengah
-Jawa Timur
-Kalimantan Barat
-Kalimantan Selatan
-Kalimantan Tengah
-Kalimantan Timur
-Kalimantan Utara
-Kepulauan Riau
-Lampung
-Maluku
-Maluku Utara
-Nusa Tenggara Barat
-Nusa Tenggara Timur
-Papua
-Papua Barat
-Papua Barat Daya
-Papua Pegunungan
-Papua Selatan
-Papua Tengah
-Riau
-Sulawesi Barat
-Sulawesi Selatan
-Sulawesi Tengah
-Sulawesi Tenggara
-Sulawesi Utara
-Sumatera Barat
-Sumatera Selatan
-Sumatera Utara
-Saluran satelit
-Selain sistem terestrial, di Indonesia juga banyak stasiun televisi yang disiarkan melalui satelit dan hanya dapat ditangkap dengan menggunakan antena parabola. Hampir seluruh siaran terestrial, baik dari jaringan televisi nasional maupun beberapa stasiun televisi lokal, juga disiarkan melalui satelit dan dapat ditangkap melalui antena parabola.[4]
+# Jambi
+# Jawa Barat
+# Jawa Tengah
+# Jawa Timur
+# Kalimantan Barat
+# Kalimantan Selatan
+# Kalimantan Tengah
+# Kalimantan Timur
+# Kalimantan Utara
+# Kepulauan Riau
+# Lampung
+# Maluku
+# Maluku Utara
+# Nusa Tenggara Barat
+# Nusa Tenggara Timur
+# Papua
+# Papua Barat
+# Papua Barat Daya
+# Papua Pegunungan
+# Papua Selatan
+# Papua Tengah
+# Riau
+# Sulawesi Barat
+# Sulawesi Selatan
+# Sulawesi Tengah
+# Sulawesi Tenggara
+# Sulawesi Utara
+# Sumatera Barat
+# Sumatera Selatan
+# Sumatera Utara
+# Saluran satelit
+# Selain sistem terestrial, di Indonesia juga banyak stasiun televisi yang disiarkan melalui satelit dan hanya dapat ditangkap dengan menggunakan antena parabola. Hampir seluruh siaran terestrial, baik dari jaringan televisi nasional maupun beberapa stasiun televisi lokal, juga disiarkan melalui satelit dan dapat ditangkap melalui antena parabola.[4]
 
 Berikut ini adalah saluran televisi siaran gratis yang disiarkan melalui sistem satelit.
 
