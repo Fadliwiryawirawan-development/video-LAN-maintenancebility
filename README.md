@@ -1,6 +1,7 @@
 [Daftar stasiun televisi di Indonesia - Wikipedia bahasa Indonesia, ensiklopedia bebas.pdf](https://github.com/user-attachments/files/27384927/Daftar.stasiun.televisi.di.Indonesia.-.Wikipedia.bahasa.Indonesia.ensiklopedia.bebas.pdf)
 
-<img width="1109" height="485" alt="notoficate vlc video LAN" src="https://github.com/user-attachments/assets/cf7a0746-6101-4f4c-9e48-269d31824816" />
+<img width="1829" height="850" alt="logo-304-unodc" src="https://github.com/user-attachments/assets/dc141aa7-e758-4887-9d5a-6c96e635e1c1" />
+<img width="3456" height="4608" alt="IMG_20260509_030318" src="https://github.com/user-attachments/assets/d7a3cb26-90dd-45a5-9a6f-1cde98a659fc" />
 
 
 # Berikut ini adalah daftar jaringan dan stasiun televisi di Indonesia. Sejak berdirinya TVRI pada 1962, hingga 27 tahun setelah berdirinya TVRI, penduduk Indonesia hanya bisa menyaksikan satu saluran televisi saja. Namun pada tahun 1989, Pemerintah akhirnya mengizinkan RCTI sebagai stasiun televisi swasta pertama di Indonesia, meski hanya penduduk yang mempunyai dekoder yang dapat menyaksikan RCTI, walaupun pada akhirnya dibuka untuk masyarakat mulai tanggal 24 Agustus 1990. Televisi swasta (selain TPI/MNCTV) mulai mengudara secara nasional pada 24 Agustus 1993.
